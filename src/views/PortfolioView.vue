@@ -19,7 +19,7 @@ export default {
           imageUrl: 'sahabatmuslim',
           status: 'A website that has a responsive display to make it easier for Muslims to read the Quran from anywhere.',
           tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/muslim-companion',
+          github: 'https://github.com/ZurrBotz/Muslim-Sahabat',
           demo: 'https://sahabat-muslim.netlify.app/'
         },
         {
